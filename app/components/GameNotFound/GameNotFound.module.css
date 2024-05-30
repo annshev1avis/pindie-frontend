@@ -1,0 +1,10 @@
+.pic_and_string{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.not-found__image{
+    width: 50%;
+}
